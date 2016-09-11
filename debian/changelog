@@ -1,10 +1,36 @@
-python-oslo.rootwrap (4.1.0-3) UNRELEASED; urgency=medium
+python-oslo.rootwrap (5.1.0-1) experimental; urgency=medium
 
+  * New upstream release.
+
+ -- Corey Bryant <corey.bryant@canonical.com>  Mon, 15 Aug 2016 15:46:35 -0400
+
+python-oslo.rootwrap (4.3.0-1) experimental; urgency=medium
+
+  [ David Della Vecchia ]
+  * New upstream release.
+  * d/control: Align (build-)depends with upstream.
+
+  [ Thomas Goirand ]
+  * Drop python-oslo-rootwrap, now useless after Xenial is released.
+  * Switch to pkgos-dh_auto_{install,test}.
+
+ -- Thomas Goirand <zigo@debian.org>  Fri, 01 Jul 2016 21:28:41 +0200
+
+python-oslo.rootwrap (4.2.0-1) experimental; urgency=medium
+
+  [ Ondřej Nový ]
   * Standards-Version is 3.9.8 now (no change)
   * d/rules: Changed UPSTREAM_GIT protocol to https
   * d/copyright: Changed source URL to https protocol
 
- -- Ondřej Nový <novy@ondrej.org>  Sat, 09 Apr 2016 19:29:50 +0200
+  [ Corey Bryant ]
+  * New upstream release.
+  * d/gbp.conf: Update branch for Newton.
+
+  [ Thomas Goirand ]
+  * Added Corey Bryant <corey.bryant@canonical.com> in Uploaders:.
+
+ -- Thomas Goirand <zigo@debian.org>  Sun, 05 Jun 2016 15:21:34 +0000
 
 python-oslo.rootwrap (4.1.0-2) unstable; urgency=medium
 
