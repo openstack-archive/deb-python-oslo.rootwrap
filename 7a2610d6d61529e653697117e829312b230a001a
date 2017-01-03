@@ -1,0 +1,9 @@
+Code-Review+2: ChangBo Guo(gcb) <glongwave@gmail.com>
+Code-Review+2: Michael Still <mikal@stillhq.com>
+Workflow+1: Michael Still <mikal@stillhq.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 23 Dec 2016 05:00:55 +0000
+Reviewed-on: https://review.openstack.org/414330
+Project: openstack/deb-python-oslo.rootwrap
+Branch: refs/heads/master
