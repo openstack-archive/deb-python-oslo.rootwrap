@@ -1,0 +1,10 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Claudiu Belu <cbelu@cloudbasesolutions.com>
+Code-Review+2: Brant Knudson <blk@acm.org>
+Workflow+1: Brant Knudson <blk@acm.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 03 Mar 2017 23:09:49 +0000
+Reviewed-on: https://review.openstack.org/440848
+Project: openstack/deb-python-oslo.rootwrap
+Branch: refs/heads/stable/ocata
